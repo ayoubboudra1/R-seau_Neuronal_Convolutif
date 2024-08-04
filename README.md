@@ -6,13 +6,13 @@ Ce projet présente deux implémentations de réseaux neuronaux convolutifs (CNN
 
 ### Contenu
 
-1. **tp2_a_cnn.ipynb**  
-   Implémentation d'un CNN avec TensorFlow pour traiter des images. Ce document couvre la configuration de l'environnement, le téléchargement des jeux de données et la construction du modèle.
+1. **tp2_cnn_mnist.ipynb**  
+  Ce fichier contient un tutoriel pratique sur la création d'un réseau de neurones convolutif (CNN) en utilisant TensorFlow pour la classification des chiffres avec la base de données MNIST. Il couvre les étapes essentielles, y compris la normalisation des données, l'augmentation d'images, et la construction du modèle. Les résultats de l'entraînement du modèle sont également présentés, montrant une amélioration significative de la précision au fil des époques. Idéal pour les développeurs et les chercheurs souhaitant approfondir leurs compétences en apprentissage profond.
 
-2. **tp2_b_dogchat.ipynb**  
-   Ce document traite de la reconnaissance d'images de chiens et de chats en utilisant des techniques de deep learning. Il inclut des instructions sur la connexion de Kaggle à Google Colab.
+3. **tp2_dogchat.ipynb**  
+   Ce fichier présente les étapes pour connecter Kaggle à Google Colab et télécharger le dataset de classification d'images de chats et de chiens. Il comprend des instructions pour installer les dépendances nécessaires, décompresser le dataset et préparer les images pour l'analyse.
 
-3. **tp2_c_cnn_pytorch.ipynb**  
+4. **tp2_c_cnn_pytorch.ipynb**  
    Implémentation d'un CNN avec PyTorch, incluant le chargement des données, la création du modèle et l'entraînement. Ce document fournit également des exemples de visualisation des données et des résultats.
 
 ### Prérequis
